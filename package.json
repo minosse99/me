@@ -2,7 +2,7 @@
   "name": "personalportfolio",
   "version": "0.1.0",
   "homepage": "http://minosse99.github.io/site",
-  "private": true,
+  "private": "false",
   "dependencies": {
     "anix": "^0.3.3",
     "jquery": "^3.2.1",
