@@ -29,11 +29,6 @@
         "className":"fa fa-twitter"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
-      },
-      {
         "name":"instagram",
         "url":"http://instagram.com/tbaker_x",
         "className":"fa fa-instagram"
@@ -45,8 +40,8 @@
       }
     ],
     "testimonials":[{
-      "user":"pippo",
-      "text":"pluto"
+      "user":"Athur C.Clarke",
+      "text":"Any sufficiently advanced technology is indistinguishable from magic."
     }]
   },
   "resume":{
