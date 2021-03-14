@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Simone's Website",
-    "description":"Hi! I am Simone Boldrini, I came from Bologna(IT) and this is my personal website",
+    "description":"Hi! I am Simone Boldrini, came from Bologna(IT) and this is my personal website",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -14,7 +14,7 @@
       "city":"Castel Maggiore(BO)",
       "state":"Italy",
       "zip": "40013"
-    },
+	},
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
@@ -28,8 +28,7 @@
         "url":"https://twitter.com/Simone45769074",
         "className":"fa fa-twitter"
       },
-      {
-        "name":"instagram",
+	  { "name":"instagram",
         "url":"http://instagram.com/tbaker_x",
         "className":"fa fa-instagram"
       },
@@ -69,8 +68,8 @@
       }
     ],
     "skills":[
-      {
-        "name":"C++",
+		{
+		"name":"C++",
         "level":"80%"
       },
       {
