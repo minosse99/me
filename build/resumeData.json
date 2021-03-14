@@ -1,0 +1,136 @@
+{
+  "main": {
+    "name":"Simone's Website",
+    "description":"Hi! I am Simone Boldrini, came from Bologna(IT) and this is my personal website",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "simoneboldrini1999@gmail.com",
+    "phone": "+39 3477372839",
+    "github":"https://github.com/minosse99",
+    "project":"https://drive.google.com/file/d/1PYWlpMlnuYhAG7GbB9P986rt4GPRogwG/view?usp=sharing",
+    "address":{
+      "street":"via Quasimodo",
+      "city":"Castel Maggiore(BO)",
+      "state":"Italy",
+      "zip": "40013"
+	},
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/simone.boldrini.311",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/Simone45769074",
+        "className":"fa fa-twitter"
+      },
+	  { "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/minosse99",
+        "className":"fa fa-github"
+      }
+    ],
+    "testimonials":[{
+      "user":"Athur C.Clarke",
+      "text":" 'Any sufficiently advanced technology is indistinguishable from magic.' "
+    }]
+  },
+  "resume":{
+    "skillmessage":"Here you can see the technologies in which I have specialized",
+    "education":[
+      {
+        "school":"Alma Mater Studiorum - Università di Bologna",
+        "degree":"Computer Science",
+        "graduated":"Expected October 2020",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"ITT Aldini Valeriani",
+        "degree":"Computer Technician",
+        "graduated":"June 2018",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"DATALOGIC S.r.l. Bologna",
+        "title":"Mobile/ Handheld",
+        "years":"March 2017 | November 2017",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+		{
+		"name":"C++",
+        "level":"80%"
+      },
+      {
+        "name":"C",
+        "level":"70%"
+      },
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"40%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"30%"
+      },
+      {
+        "name":"PHP",
+        "level":"30%"
+      }
+    
+  ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  }
+}
