@@ -1,7 +1,7 @@
 {
   "name": "personalportfolio",
   "version": "0.1.0",
-  "homepage": "https://minosse99.github.io/me",
+  "homepage": "https://minosse.github.io",
   "private": "false",
   "dependencies": {
     "anix": "^0.3.3",
