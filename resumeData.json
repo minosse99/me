@@ -1,14 +1,15 @@
 {
   "main": {
     "name":"Simone's Website",
-    "description":"Hi! I am Simone Boldrini, came from Bologna(IT) and this is my personal website",
+    "description":"Hi! I'm Simone Boldrini, came from Bologna(IT) and this is my personal website",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":" ... ",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "simoneboldrini1999@gmail.com",
     "phone": "+39 3477372839",
     "github":"https://github.com/minosse99",
     "project":"https://drive.google.com/file/d/1PYWlpMlnuYhAG7GbB9P986rt4GPRogwG/view?usp=sharing",
+    "tesi":"https://drive.google.com/file/d/1CivYdkctFPOvXKsALI2SF5Q6oHU3eZ5Y/view?usp=sharing",
     "address":{
       "street":"via Quasimodo",
       "city":"Castel Maggiore(BO)",
@@ -36,6 +37,10 @@
         "name":"github",
         "url":"https://github.com/minosse99",
         "className":"fa fa-github"
+      },{
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/simone-boldrini-208877206/",
+        "className":"fa fa-linkedin"
       }
     ],
     "testimonials":[{
@@ -49,14 +54,14 @@
       {
         "school":"Alma Mater Studiorum - Università di Bologna",
         "degree":"Computer Science",
-        "graduated":"Expected October 2020",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "graduated":"Expected October 2021",
+        "description":"  "
       },
       {
         "school":"ITT Aldini Valeriani",
         "degree":"Computer Technician",
         "graduated":"June 2018",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":" "
       }
     ],
     "work":[
@@ -64,7 +69,7 @@
         "company":"DATALOGIC S.r.l. Bologna",
         "title":"Mobile/ Handheld",
         "years":"March 2017 | November 2017",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":" curricular internship"
       }
     ],
     "skills":[
