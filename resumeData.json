@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Simone's Website",
-    "description":"Hi! I'm Simone Boldrini, came from Bologna(IT) and this is my personal website",
+    "description":"Hi! I am Simone Boldrini, came from Bologna(IT) and this is my personal website",
     "image":"profilepic.jpg",
-    "bio":" ... ",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "simoneboldrini1999@gmail.com",
     "phone": "+39 3477372839",
@@ -36,10 +36,6 @@
         "name":"github",
         "url":"https://github.com/minosse99",
         "className":"fa fa-github"
-      },{
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/simone-boldrini-208877206/",
-        "className":"fa fa-linkedin"
       }
     ],
     "testimonials":[{
@@ -53,14 +49,14 @@
       {
         "school":"Alma Mater Studiorum - Università di Bologna",
         "degree":"Computer Science",
-        "graduated":"Expected October 2021",
-        "description":"  "
+        "graduated":"Expected October 2020",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
         "school":"ITT Aldini Valeriani",
         "degree":"Computer Technician",
         "graduated":"June 2018",
-        "description":" "
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work":[
@@ -68,7 +64,7 @@
         "company":"DATALOGIC S.r.l. Bologna",
         "title":"Mobile/ Handheld",
         "years":"March 2017 | November 2017",
-        "description":" curricular internship"
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ],
     "skills":[
