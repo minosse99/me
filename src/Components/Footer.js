@@ -19,7 +19,7 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; Copyright 2021 Simone Boldrini</li>
+              <li><a href={"https://drive.google.com/file/d/1PRel1WTqMgJuyEuwY29ZPrqXZwfEJVQu/view?usp=sharing"}>&copy;</a> Copyright 2021 Simone Boldrini</li>
               <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
            </ul>
 
