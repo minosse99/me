@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import { JSX } from 'react';
 class Resume extends Component {
 
   getRandomColor() {
@@ -11,14 +11,27 @@ class Resume extends Component {
     return color;
   }
   
+  
+  
+
   render() {
 
     if(this.props.data){
       var skillmessage = this.props.data.skillmessage;
       var education = this.props.data.education.map(function(education){
+        console.log(education.school);
+        console.log(education.tesi);
+        console.log(education.diploma);
+
         return <div key={education.school}><h3>{education.school}</h3>
-        <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
-        <p>{education.description}</p></div>
+        <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.started + "-" + education.graduated}</em></p>
+        <div>
+          <button hidden={(education.tesi==="-")?true:false} className="btnplus" onClick={()=>{window.open(education.tesi)}}>Thesis</button>
+          <button hidden={(education.diploma==="-")?true:false} className="btnplus" onClick={()=>{window.open(education.diploma)}}>Diploma</button>
+          <br/>
+        </div>
+        <br/>
+        </div>
       })
       var work = this.props.data.work.map(function(work){
         return <div key={work.company}><h3>{work.company}</h3>
@@ -67,25 +80,6 @@ class Resume extends Component {
     </div>
 
 
-{/*
-      <div className="row skill">
-
-         <div className="three columns header-col">
-            <h1><span>Skills</span></h1>
-         </div>
-
-         <div className="nine columns main-col">
-
-            <p>{skillmessage}
-            </p>
-
-				<div className="bars">
-				   <ul className="skills">
-					  {skills}
-					</ul>
-				</div>
-			</div>
-</div> */}
    </section>
     );
   }

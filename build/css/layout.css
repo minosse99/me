@@ -202,16 +202,18 @@ ul#nav li.current a { color: #fe6928; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
-   border-radius: 100%;
+   min-width: 300px;
+   min-height: 200px;
+   border-radius: 0%;
 }
 #about .contact-details { width: 41.66667%; }
 #about .download {
    width: 58.33333%;
    padding-top: 6px;
 }
-#about .main-col { padding-right: 5%; }
+#about .main-col { 
+   padding-left: 10%;
+   }
 #about .download .button {
    margin-top: 6px;
    background: #444;
@@ -276,6 +278,15 @@ ul#nav li.current a { color: #fe6928; }
    margin-top: 6px;
 }
 
+#resume .btnplus{
+   font: 15px/24px 'opensans-regular', sans-serif;
+   margin-top: 2px;
+   margin-left: 20%;
+   color: #0762f9;
+   border: solid 1px #0762f9;
+   background-color: transparent;
+   cursor: pointer;
+}
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
