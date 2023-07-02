@@ -1,14 +1,15 @@
 {
   "main": {
     "name":"Simone's Website",
-    "description":"Hi! I am Simone Boldrini, came from Bologna(IT) and this is my personal website",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "description":"Hi! I'm Simone Boldrini, came from Bologna(IT) and this is my personal website",
+    "image":"BOLDRINI_15.jpg",
+    "bio":" Hi I'm simone, a junior majoring in computer science, I am currently interested in considering different activities in the area of my schooling and academic training with particular preference towards programming and software engineering figure. I have always been passionate about information technology and its applications aimed at improving business organizations and the process innovations they trigger. I am therefore interested in building my own specific professionalism in the field.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "simoneboldrini1999@gmail.com",
     "phone": "+39 3477372839",
     "github":"https://github.com/minosse99",
     "project":"https://drive.google.com/file/d/1PYWlpMlnuYhAG7GbB9P986rt4GPRogwG/view?usp=sharing",
+    "tesi":"https://drive.google.com/file/d/1CivYdkctFPOvXKsALI2SF5Q6oHU3eZ5Y/view?usp=sharing",
     "address":{
       "street":"via Quasimodo",
       "city":"Castel Maggiore(BO)",
@@ -36,6 +37,10 @@
         "name":"github",
         "url":"https://github.com/minosse99",
         "className":"fa fa-github"
+      },{
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/simone-boldrini-208877206/",
+        "className":"fa fa-linkedin"
       }
     ],
     "testimonials":[{
@@ -48,15 +53,29 @@
     "education":[
       {
         "school":"Alma Mater Studiorum - Università di Bologna",
-        "degree":"Computer Science",
-        "graduated":"Expected October 2020",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "degree":"Master's Degree - Computer Science",
+        "graduated":"expeting December 2023",
+        "started": "September 2021",
+        "tesi":"-",
+        "diploma":"-",
+        "description":" "
+      },{
+        "school":"Alma Mater Studiorum - Università di Bologna",
+        "degree":"Bachelor's Degree - Computer Science",
+        "graduated":"October 2021",
+        "started": "September 2018",
+        "tesi":"https://drive.google.com/file/d/1CivYdkctFPOvXKsALI2SF5Q6oHU3eZ5Y/view?usp=sharing",
+        "diploma":"https://drive.google.com/file/d/1lFcjBTekeL1JctpokVXw8U3nAuTh89o3/view?usp=sharing",
+        "description":" "
       },
       {
         "school":"ITT Aldini Valeriani",
         "degree":"Computer Technician",
+        "started": "September 2015",
         "graduated":"June 2018",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":" ",
+        "tesi":"-",
+        "diploma":"-"
       }
     ],
     "work":[
@@ -64,7 +83,7 @@
         "company":"DATALOGIC S.r.l. Bologna",
         "title":"Mobile/ Handheld",
         "years":"March 2017 | November 2017",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":" curricular internship"
       }
     ],
     "skills":[
