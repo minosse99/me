@@ -1,0 +1,155 @@
+{
+  "main": {
+    "name":"Simone's Website",
+    "description":"Hi! I'm Simone Boldrini, came from Bologna(IT) and this is my personal website",
+    "image":"BOLDRINI_15.jpg",
+    "bio":" Hi I'm simone, a junior majoring in computer science, I am currently interested in considering different activities in the area of my schooling and academic training with particular preference towards programming and software engineering figure. I have always been passionate about information technology and its applications aimed at improving business organizations and the process innovations they trigger. I am therefore interested in building my own specific professionalism in the field.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "simoneboldrini1999@gmail.com",
+    "phone": "+39 3477372839",
+    "github":"https://github.com/minosse99",
+    "project":"https://drive.google.com/file/d/1PYWlpMlnuYhAG7GbB9P986rt4GPRogwG/view?usp=sharing",
+    "tesi":"https://drive.google.com/file/d/1CivYdkctFPOvXKsALI2SF5Q6oHU3eZ5Y/view?usp=sharing",
+    "address":{
+      "street":"via Quasimodo",
+      "city":"Castel Maggiore(BO)",
+      "state":"Italy",
+      "zip": "40013"
+	},
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/simone.boldrini.311",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/Simone45769074",
+        "className":"fa fa-twitter"
+      },
+	  { "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/minosse99",
+        "className":"fa fa-github"
+      },{
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/simone-boldrini-208877206/",
+        "className":"fa fa-linkedin"
+      }
+    ],
+    "testimonials":[{
+      "user":"Athur C.Clarke",
+      "text":" 'Any sufficiently advanced technology is indistinguishable from magic.' "
+    }]
+  },
+  "resume":{
+    "skillmessage":"Here you can see the technologies in which I have specialized",
+    "education":[
+      {
+        "school":"Alma Mater Studiorum - Università di Bologna",
+        "degree":"Master's Degree - Computer Science",
+        "graduated":"expeting December 2023",
+        "started": "September 2021",
+        "tesi":"-",
+        "diploma":"-",
+        "description":" "
+      },{
+        "school":"Alma Mater Studiorum - Università di Bologna",
+        "degree":"Bachelor's Degree - Computer Science",
+        "graduated":"October 2021",
+        "started": "September 2018",
+        "tesi":"https://drive.google.com/file/d/1CivYdkctFPOvXKsALI2SF5Q6oHU3eZ5Y/view?usp=sharing",
+        "diploma":"https://drive.google.com/file/d/1lFcjBTekeL1JctpokVXw8U3nAuTh89o3/view?usp=sharing",
+        "description":" "
+      },
+      {
+        "school":"ITT Aldini Valeriani",
+        "degree":"Computer Technician",
+        "started": "September 2015",
+        "graduated":"June 2018",
+        "description":" ",
+        "tesi":"-",
+        "diploma":"-"
+      }
+    ],
+    "work":[
+      {
+        "company":"DATALOGIC S.r.l. Bologna",
+        "title":"Mobile/ Handheld",
+        "years":"March 2017 | November 2017",
+        "description":" curricular internship"
+      }
+    ],
+    "skills":[
+		{
+		"name":"C++",
+        "level":"80%"
+      },
+      {
+        "name":"C",
+        "level":"70%"
+      },
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"40%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"30%"
+      },
+      {
+        "name":"PHP",
+        "level":"30%"
+      }
+    
+  ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  }
+}
